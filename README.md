@@ -3,9 +3,9 @@
 
 ## Submitted By
 
-**Name:** Divyam Malik  
-**Student ID:** 102103142  
-**Class:** 3CO5
+**Name:** Harshvir Singh
+**Student ID:** 102117056 
+**Class:** 3Cs2
 
 ## Overview
 
